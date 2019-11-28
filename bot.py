@@ -697,4 +697,4 @@ async def shardid(ctx):
     await ctx.send("{}/{}".format(ctx.guild.shard_id, bot.shard_count))
 
 print("Connecting...")
-bot.run(config._token)
+bot.run("NjQ2NzAzNzkyMTYyNzM0MDgw.Xd-6GA.os0KofR4lwRlytI20gHZTfvN3Kc")
